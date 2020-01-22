@@ -132,3 +132,8 @@ rm(xwavedat)
 - Accept the invitation that I'll send by email and complete the assignment using Github Classroom
 - Once completed do not forget to submit a link to your Github repo on Bart
 - Any questions raise an issue here: https://github.com/datan3-2020/datan3/issues
+
+## Homework for next class
+
+- Read ch.5 (Data transformation) from R for Data Science: https://r4ds.had.co.nz/transform.html
+- Do exercises 5.2.4, 5.3.1, 5.6.7 (and others if you have time)
