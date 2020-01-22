@@ -8,6 +8,7 @@ The mark for this assignment does not count towards your final grade.
 
 Deadline: 28 January, 2pm
 
+https://github.com/datan3-2020/testAssignment
 
 #### Statistical assignment 1
 
